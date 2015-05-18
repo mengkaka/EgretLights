@@ -1,0 +1,12 @@
+{
+"resources":
+	[
+        {"name":"level","type":"json","url":"config/level.json"},
+	    {"name":"uiconfig","type":"json","url":"config/uiconfig.json"}
+	],
+
+"groups":
+	[
+	   {"name":"level","keys":"level"}
+	]
+}
